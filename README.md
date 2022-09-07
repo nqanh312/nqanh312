@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nqanh312&label=Profile%20views&color=0e75b6&style=flat" alt="nqanh312" /> </p>
 
-- 🔭 I’m student at [FPT University](https://cantho.fpt.edu.vn/)
+- 🔭 I’m student at [FPT University](https://cantho.fpt.edu.vn/) 
 
 - 👯 I’m looking to collaborate on [Techycetera](https://www.facebook.com/techycetera)
 
