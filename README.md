@@ -6,8 +6,6 @@
 
 - 🔭 I’m student at [FPT University](https://cantho.fpt.edu.vn/) 
 
-- 👯 I’m looking to collaborate on [Techycetera](https://www.facebook.com/techycetera)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://fb.com/https://www.facebook.com/nanh1122/](https://www.facebook.com/nanh1122/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nanh1122/" height="30" width="40" /></a>
